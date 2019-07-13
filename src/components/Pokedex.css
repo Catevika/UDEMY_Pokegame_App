@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+* {
+  font-family: 'Fira Sans', sans-serif;
+  color: rgb(84, 39, 114);
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h2 {
+  padding-top: 15px;
+}
+
+.Pokedex {
+  background: rgb(207, 181, 231);
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.Pokedex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: space-evenly;
+  padding-bottom: 20px;
+}
