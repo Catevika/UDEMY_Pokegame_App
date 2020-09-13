@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/UDEMY_Pokegame_App/precache-manifest.9a298567950c60eb378a6393c16c28ff.js"
+  "/UDEMY_Pokegame_App/precache-manifest.eb02aaada461163f82ff312dc86e6938.js"
 );
 
 self.addEventListener('message', (event) => {
