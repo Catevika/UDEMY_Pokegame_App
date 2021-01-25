@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/UDEMY_Pokegame_App/static/css/main.5642f679.chunk.css",
-    "main.js": "/UDEMY_Pokegame_App/static/js/main.e79dfbd4.chunk.js",
-    "main.js.map": "/UDEMY_Pokegame_App/static/js/main.e79dfbd4.chunk.js.map",
-    "runtime-main.js": "/UDEMY_Pokegame_App/static/js/runtime-main.9da1675b.js",
-    "runtime-main.js.map": "/UDEMY_Pokegame_App/static/js/runtime-main.9da1675b.js.map",
-    "static/js/2.7338a95d.chunk.js": "/UDEMY_Pokegame_App/static/js/2.7338a95d.chunk.js",
-    "static/js/2.7338a95d.chunk.js.map": "/UDEMY_Pokegame_App/static/js/2.7338a95d.chunk.js.map",
+    "main.css": "/UDEMY_Pokegame_App/static/css/main.df5585f1.chunk.css",
+    "main.js": "/UDEMY_Pokegame_App/static/js/main.495dfb0d.chunk.js",
+    "main.js.map": "/UDEMY_Pokegame_App/static/js/main.495dfb0d.chunk.js.map",
+    "runtime-main.js": "/UDEMY_Pokegame_App/static/js/runtime-main.a6d340b4.js",
+    "runtime-main.js.map": "/UDEMY_Pokegame_App/static/js/runtime-main.a6d340b4.js.map",
+    "static/js/2.2d4c0349.chunk.js": "/UDEMY_Pokegame_App/static/js/2.2d4c0349.chunk.js",
+    "static/js/2.2d4c0349.chunk.js.map": "/UDEMY_Pokegame_App/static/js/2.2d4c0349.chunk.js.map",
     "index.html": "/UDEMY_Pokegame_App/index.html",
-    "precache-manifest.eb02aaada461163f82ff312dc86e6938.js": "/UDEMY_Pokegame_App/precache-manifest.eb02aaada461163f82ff312dc86e6938.js",
-    "service-worker.js": "/UDEMY_Pokegame_App/service-worker.js",
-    "static/css/main.5642f679.chunk.css.map": "/UDEMY_Pokegame_App/static/css/main.5642f679.chunk.css.map",
-    "static/js/2.7338a95d.chunk.js.LICENSE.txt": "/UDEMY_Pokegame_App/static/js/2.7338a95d.chunk.js.LICENSE.txt"
+    "static/css/main.df5585f1.chunk.css.map": "/UDEMY_Pokegame_App/static/css/main.df5585f1.chunk.css.map",
+    "static/js/2.2d4c0349.chunk.js.LICENSE.txt": "/UDEMY_Pokegame_App/static/js/2.2d4c0349.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9da1675b.js",
-    "static/js/2.7338a95d.chunk.js",
-    "static/css/main.5642f679.chunk.css",
-    "static/js/main.e79dfbd4.chunk.js"
+    "static/js/runtime-main.a6d340b4.js",
+    "static/js/2.2d4c0349.chunk.js",
+    "static/css/main.df5585f1.chunk.css",
+    "static/js/main.495dfb0d.chunk.js"
   ]
 }
